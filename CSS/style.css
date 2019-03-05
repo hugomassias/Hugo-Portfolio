@@ -1,0 +1,36 @@
+html, body{
+  background-color: #e74c3c
+}
+.wrapper{
+  width:100%;
+  padding-top: 20px;
+  text-align:center;
+}
+h2{
+  font-family: blacklisted;
+  color:#fff;
+  font-size: 60px;
+}
+h3{
+	color: orange;
+	font-size: 50px;
+}
+h4{
+	color: black;
+	font-size: 40px;
+}
+p{
+	color: white;
+	font-size: 30px;
+}
+.carousel{
+  width:90%;
+  margin:0px auto;
+}
+.slick-slide{
+  margin:10px;
+}
+.slick-slide img{
+  width:100%;
+  border: 2px solid #fff;
+}
